@@ -1,0 +1,136 @@
+body{
+  margin: 0;
+  text-align:center;
+  font-family:Montserrat;
+
+
+
+}
+h1{
+  color: #133986;
+  font-size: 80px;
+  margin:50px auto 0 auto;
+  font-family: Sacramento;
+}
+h2{
+
+    color: #133986;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+}
+h3{
+    color: #133986;
+  font-family: 'Montserrat', sans-serif;
+
+}
+.top{
+  background-color: #E8E7D6;
+
+  padding-top:  100px;
+}
+
+
+
+
+
+.pro {
+    text-decoration:  underline;
+}
+.progrmmer{
+  color: #45474E ;
+  font-size: 25px;
+  padding-bottom: 100px;
+}
+hr{
+      border-style: none;
+      border-top-style: dotted;
+      border-color: grey;
+      border-width: 5px;
+      width:5%;
+      margin:100px auto;
+}
+.mani1{
+  border-radius: 50%;
+  height: 200px;
+  margin-top: 100px;
+  border-color: #E8E7D6;
+}
+
+.drawing{
+  height: 400px;
+}
+.bottom-container{
+  background-color:#D0CCA5;
+  padding: 50px 0 20px;
+}
+.footer-link{
+  color:white;
+  font-family: Montserrat;
+  margin : 9px ;
+  text-decoration: none;
+}
+.copyright{
+  font-size: 1rem;
+  padding:20px 0;
+}
+a:hover{
+  color:blue;
+}
+
+.contact-me{
+  width: 40%;
+  margin:40px auto 60px;
+}
+.skill-row{
+  width: 50%;
+  margin:100px auto 200px auto;
+  text-align: left;
+  line-height: 2;
+}
+.cap{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+
+}
+.coding{
+  width: 25%;
+  float: right;
+  margin-left: 30;
+}
+.bio{
+  color: #45474E;
+  width: 30%;
+  margin:auto;
+  line-height: 2;
+}
+.bio1{
+  color: #45474E ;
+  font-family: 'Montserrat', sans-serif;
+line-height: 2;
+  font-size: 18px;
+}
+.btn {
+  font-family: verdana;
+  color: #FFFFFF !important;
+  font-size: 20px;
+  text-shadow: 1px 1px 0px #7CACDE;
+  box-shadow: 1px 1px 1px #F9EDEE;
+  padding: 10px 25px;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+  background: #EED011;
+  background: linear-gradient(top,  #45474E,  #45474E );
+  background: -ms-linear-gradient(top,  #45474E,  #45474E );
+  background: -webkit-gradient(linear, left top, left bottom, from(#45474E), to(#45474E ));
+  background: -moz-linear-gradient(top,  #45474E,  #45474E );
+}
+.btn:hover {
+  color: #FFFAFA !important;
+  background: #468CCF;
+  background: linear-gradient(top,  #6B63CF,  #7074EE);
+  background: -ms-linear-gradient(top,  #6B63CF,  #7074EE);
+  background: -webkit-gradient(linear, left top, left bottom, from(#6B63CF), to(#7074EE));
+  background: -moz-linear-gradient(top,  #6B63CF,  #7074EE);
+}
